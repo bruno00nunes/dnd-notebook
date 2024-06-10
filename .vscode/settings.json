@@ -1,0 +1,12 @@
+{
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.formatOnPaste": false,
+	"editor.insertSpaces": false,
+	"git.autofetch": true,
+	"explorer.confirmDelete": false,
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+	"editor.detectIndentation": false,
+	"files.autoSave": "afterDelay",
+	"editor.unicodeHighlight.invisibleCharacters": false
+}
